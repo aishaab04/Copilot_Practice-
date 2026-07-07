@@ -23,5 +23,17 @@ Generate and invite with proper agenda
 Prompt: 
 generate and send a meeting invite for a meeting titled "Supply Chain Issues Review." The invite must include a clear agenda. Invite relevant (fictitious) stakeholders. Note: These are simulated stakeholders and do not need to be real email addresses.
 
-_________________________________________________________---
 
+Task 2- Meeting Documentation and Action Plan
+Purpose: 
+Generate the sumary of the transcript then create an action plan 
+Prompt: 
+summarize the provided "Teams Transcript: Addressing Critical Supply Chain Issues" in the context of the meeting agenda given: 
+Supply Chain Issues Review Meeting
+generate an Action Plan based on this summary. The Action Plan must include the following sections:
+General Strategies
+Immediate Actions
+Short-Term Actions (1-3 weeks)
+Ongoing Actions
+_________________________________________________________---
+Task 3 - 
