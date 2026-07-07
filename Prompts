@@ -52,7 +52,7 @@ Purpose:
 Generate a report based on the Excel Analysis 
 
 Prompt: 
-generate a "Supply Chain Issue Analysis Report" based on the Excel analysis. This report must include:
+Based on this analysis [attached the Excel] generate a "Supply Chain Issue Analysis Report" based on the Excel analysis. This report must include:
 Executive Summary
 Component Overview
 Implications for Compliance
