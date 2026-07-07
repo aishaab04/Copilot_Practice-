@@ -35,5 +35,28 @@ General Strategies
 Immediate Actions
 Short-Term Actions (1-3 weeks)
 Ongoing Actions
-_________________________________________________________---
-Task 3 - 
+_________________________________________________________
+Task 3 - Data Analysis
+Purpose: 
+Generate an analysis from excel data 
+
+Prompt:
+Analyze the data within "Supply Chain Report.xlsx." Focus on generating the following insights:
+Average delivery timeline by risk level
+On-time delivery rate for delayed components (CARB123, BIND567, COAT890)
+Supplier performance breakdown
+
+
+Task 3 - Risk Assessment Report: 
+Purpose: 
+Generate a report based on the Excel Analysis 
+
+Prompt: 
+generate a "Supply Chain Issue Analysis Report" based on the Excel analysis. This report must include:
+Executive Summary
+Component Overview
+Implications for Compliance
+Root Cause Analysis
+Mitigation Strategies (General and Component-Specific)
+
+
